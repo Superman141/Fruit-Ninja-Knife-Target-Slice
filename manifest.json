@@ -1,0 +1,13 @@
+{
+  "background_color": "#3114a3",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Fruit Ninja Knife: Target Slice",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Knife Slice",
+  "start_url": "/",
+  "theme_color": "#f5f6f7",
+  "id": "com.superman.knifeslice",
+  "description": "“An exciting and fast-paced fruit slicing and knife throwing arcade game where you test your precision and reflexes.”"
+}
